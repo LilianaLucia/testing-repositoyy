@@ -1,0 +1,21 @@
+{
+  "name": "testing-repositoyy",
+  "version": "1.0.0",
+  "description": "testing workshop repository",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilianaLucia/testing-repositoyy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LilianaLucia/testing-repositoyy/issues"
+  },
+  "homepage": "https://github.com/LilianaLucia/testing-repositoyy#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
